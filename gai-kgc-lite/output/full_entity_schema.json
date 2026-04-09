@@ -1,0 +1,27 @@
+[
+    {
+        "系统": "指新型电力系统的信息物理安全防护应用"
+    },
+    {
+        "安全": "指新型电力系统下信息物理安全防护的关键技术，包括信息物理安全建模、安全感知和安全防御。"
+    },
+    {
+        "Device": "指的是用于实现特定功能的物理或虚拟实体",
+        "Technology": "指的是用于实现特定功能的科学或工程知识和方法"
+    },
+    {
+        "Network": "指新型电力系统中信息系统和物理系统的网络结构"
+    },
+    {
+        "Person": "指人"
+    },
+    {
+        "Organization": "A collective entity that has its own goals, structure, and resources, such as a company, government agency, or institution."
+    },
+    {
+        "Journal": "A publication that is issued on a regular basis, containing articles, essays, and other written content."
+    },
+    {
+        "Method": "指代一种具体的操作或步骤"
+    }
+]

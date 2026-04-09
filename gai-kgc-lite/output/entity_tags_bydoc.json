@@ -1,0 +1,61 @@
+{
+    "data/新型电力系统信息物理安全防护体系研究/参考文献/参考文献.md": [
+        "Person",
+        "Year",
+        "Conference",
+        "Journal",
+        "Organization"
+    ],
+    "data/新型电力系统信息物理安全防护体系研究/引言/引言.md": [
+        "Security",
+        "System",
+        "Device",
+        "Network",
+        "Risk",
+        "Method"
+    ],
+    "data/新型电力系统信息物理安全防护体系研究/摘要/摘要.md": [
+        "Technology",
+        "Method",
+        "Concept",
+        "Organization"
+    ],
+    "data/新型电力系统信息物理安全防护体系研究/新型电力系统下信息物理安全防护关键技术/新型电力系统下信息物理安全防护关键技术.md": [
+        "Technology",
+        "System",
+        "Process",
+        "Framework",
+        "Methodology",
+        "Architecture",
+        "Model",
+        "Method"
+    ],
+    "data/新型电力系统信息物理安全防护体系研究/新型电力系统信息物理安全现状分析/新型电力系统信息物理安全现状分析.md": [
+        "物理",
+        "信息",
+        "安全",
+        "风险",
+        "系统",
+        "威胁"
+    ],
+    "data/新型电力系统信息物理安全防护体系研究/新型电力系统信息物理安全防护应用/新型电力系统信息物理安全防护应用.md": [
+        "Security",
+        "System",
+        "Device",
+        "Event",
+        "Network"
+    ],
+    "data/新型电力系统信息物理安全防护体系研究/标题/标题.md": [
+        "Person",
+        "Location",
+        "Date",
+        "Journal",
+        "Organization"
+    ],
+    "data/新型电力系统信息物理安全防护体系研究/结论/结论.md": [
+        "安全",
+        "系统",
+        "技术",
+        "环境"
+    ]
+}

@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gai-kgc-lite"
+version = "0.1.0"
+description = "Public demo edition of the GAI-KGC industrial knowledge graph construction workflow."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  { name = "Pei Jicheng" }
+]
+dependencies = [
+  "neo4j>=5.0.0",
+  "networkx>=3.0",
+  "tqdm>=4.66.0",
+]
+
+[project.scripts]
+gai-kgc-report = "generate_demo_report:main"
+gai-kgc-import = "import_to_neo4j:main"
+gai-kgc-analyze = "analyze_graph:main"
+
+[tool.setuptools]
+py-modules = ["generate_demo_report", "import_to_neo4j", "analyze_graph", "pdf2md"]
